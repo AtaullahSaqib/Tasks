@@ -1,0 +1,7 @@
+[26/6/2025, 11:02:27 am] Server started
+[26/6/2025, 11:03:15 am] Log file sent to client
+[26/6/2025, 11:03:33 am] Home route accessed
+[26/6/2025, 11:15:07 am] Home route accessed
+[26/6/2025, 11:15:20 am] Log file sent to client
+[26/6/2025, 11:15:30 am] Log file sent to client
+[26/6/2025, 11:16:25 am] Log file sent to client
